@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bmsNl2+6PCVLQyXD616v4esCkZMe7I3ea00AzealgUA=",
+  "Source": "DemoPracticeFirst",
+  "BasePath": "_content/DemoPracticeFirst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoPracticeFirst/wwwroot",
+      "Source": "DemoPracticeFirst",
+      "ContentRoot": "/Users/kamranimranli/Desktop/CodeAcademy/NET Core/DemoPracticeFirst/DemoPracticeFirst/wwwroot/",
+      "BasePath": "_content/DemoPracticeFirst",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/kamranimranli/Desktop/CodeAcademy/NET Core/DemoPracticeFirst/DemoPracticeFirst/wwwroot/index.html",
+      "SourceId": "DemoPracticeFirst",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kamranimranli/Desktop/CodeAcademy/NET Core/DemoPracticeFirst/DemoPracticeFirst/wwwroot/",
+      "BasePath": "_content/DemoPracticeFirst",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

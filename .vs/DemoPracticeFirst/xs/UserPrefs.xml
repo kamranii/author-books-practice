@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{905C330C-ECE4-4A58-AE5A-343CC8D19D98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoPracticeFirst/Models/Books.cs">
+    <Files>
+      <File FileName="DemoPracticeFirst/Program.cs" />
+      <File FileName="DemoPracticeFirst/Controllers/AuthorController.cs" />
+      <File FileName="DemoPracticeFirst/appsettings.json" />
+      <File FileName="DemoPracticeFirst/Models/ITransientService.cs" />
+      <File FileName="DemoPracticeFirst/Data/DbContextFolder/BookDbContext.cs" />
+      <File FileName="DemoPracticeFirst/wwwroot/index.html" />
+      <File FileName="DemoPracticeFirst/Models/Author.cs" Line="1" Column="1" />
+      <File FileName="DemoPracticeFirst/Models/Books.cs" Line="1" Column="1" />
+      <File FileName="DemoPracticeFirst/UnitOptions.cs" />
+      <File FileName="DemoPracticeFirst/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoPracticeFirst" expanded="True">
+            <Node name="DemoPracticeFirst" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DbContextFolder" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Books.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoPracticeFirst" expanded="True">
+            <Node name="DemoPracticeFirst" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DbContextFolder" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Books.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoPracticeFirst PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
